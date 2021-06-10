@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "xxxx-server-dev",
+      "script": "app.js",
+      "log_date_format": "YYYY-MM-DD HH:mm:ss",
+      "env": {
+        "NODE_ENV": "dev"
+      }
+    }
+  ]
+}

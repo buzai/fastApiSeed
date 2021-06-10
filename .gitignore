@@ -1,0 +1,11 @@
+node_modules
+swagger*.json
+*.log
+migrations
+data
+.idea
+upload
+docsdist
+/docs/_book
+_book
+resource
